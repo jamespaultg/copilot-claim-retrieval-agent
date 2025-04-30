@@ -77,6 +77,21 @@ Backend logic is simulated via Excel tables and orchestrated through Power Autom
 
 ---
 
+## 🎯 Future Improvements
+
+- Connect to real backend APIs  
+- Integrate Microsoft Entra ID for secure user authentication  
+- Add user feedback loop to enhance performance  
+- Multilingual support for international policyholders  
+
+---
+
+## 📚 Resources
+
+- [Understanding AI Agents – Simple Explanation](https://www.linkedin.com/pulse/understanding-ai-agents-simple-explanation-james-gnanasekaran-gctue/)
+- [Microsoft Copilot Studio Documentation](https://learn.microsoft.com/en-us/microsoft-copilot-studio/)
+- [Power Automate Docs](https://learn.microsoft.com/en-us/power-automate/)
+
 ## 📄 License
 
 This project is licensed under the [MIT License](./LICENSE).
